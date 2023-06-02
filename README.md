@@ -12,3 +12,5 @@
        [HW3](https://github.com/PYH1107/PL/blob/main/HW%203.ipynb)
       
        [HW4](https://github.com/PYH1107/PL/blob/main/HW%204.ipynb) & [Medium](https://medium.com/@maypan1107/%E6%9C%80%E8%BF%91%E6%9C%89%E7%94%9A%E9%BA%BC%E9%9B%BB%E5%BD%B1%E5%91%A2-7e51f7f5b07c)
+       
+       [HW5](https://github.com/PYH1107/PL/blob/main/HW%205.ipynb) & [Medium] (https://medium.com/@maypan1107/%E6%96%B0%E8%81%9E%E6%96%87%E5%AD%97%E9%9B%B2-ft-chatgpt-ef342c3dd007)
